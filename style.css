@@ -168,6 +168,12 @@ body {
   background-color: #288be6;
   color: #ffffff;
 }
+.online{
+  float:left;
+}
+.windows{
+  float:right;
+}
 
 .page-footer {
   padding: 40px 0;
@@ -191,4 +197,12 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+li{
+margin: 0 0 10px;
+  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-size: 24px;
+  line-height: 80px;
+  font-weight: 400;
+  text-align: left;
 }
